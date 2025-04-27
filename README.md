@@ -1,2 +1,2 @@
-# OOP-in-JAVA
-This has important programs about Object Oriented Programming. By learning this you will get all the concepts of OOP.
+# Java OOP Essentials 
+This repository contains crucial Object-Oriented Programming (OOP) concepts in Java, designed to help learners master encapsulation, inheritance, polymorphism, and abstraction through practical examples.
